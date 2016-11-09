@@ -114,7 +114,7 @@ namespace BTL_QUANLYTHUVIEN
             else
             {
 
-               // clsAddTab.AddTab(xtraTabControl1, "", "Quản Lý Đầu Sách", new frmDauSach());
+                clsAddTab.AddTab(xtraTabControl1, "", "Quản Lý Đầu Sách", new frmDauSach());
             }
             //   siInfo.Caption = "Nhân Viên : " + Utilities.user.MaNV + " || Bạn đang xem tab Đổi Mật khẩu";
         }
