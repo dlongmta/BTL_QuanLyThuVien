@@ -67,12 +67,6 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmDauSach.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmDauSach.Designer.cs">
-      <DependentUpon>frmDauSach.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -138,6 +132,20 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\tacgia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{205b0f32-74f5-42bf-bd66-e38c0f77d192}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAO\DAO.csproj">
+      <Project>{9a276db5-0b8a-4bb8-9569-edfa0c26cdcc}</Project>
+      <Name>DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{d41abc4c-67be-4d76-bb77-73fef2717605}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

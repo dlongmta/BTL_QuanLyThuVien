@@ -1,0 +1,15 @@
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\DAO\bin\Debug\DAO.dll
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\DAO\bin\Debug\DAO.pdb
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\DAO\bin\Debug\DTO.dll
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\DAO\bin\Debug\Sqlhelper.dll
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\DAO\bin\Debug\DTO.pdb
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\DAO\obj\Debug\DAO.dll
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\DAO\obj\Debug\DAO.pdb
+C:\data\TTNhom\BTL_QuanLyThuVien\DAO\bin\Debug\DAO.dll
+C:\data\TTNhom\BTL_QuanLyThuVien\DAO\bin\Debug\DAO.pdb
+C:\data\TTNhom\BTL_QuanLyThuVien\DAO\bin\Debug\DTO.dll
+C:\data\TTNhom\BTL_QuanLyThuVien\DAO\bin\Debug\DTO.pdb
+C:\data\TTNhom\BTL_QuanLyThuVien\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\data\TTNhom\BTL_QuanLyThuVien\DAO\obj\Debug\DAO.dll
+C:\data\TTNhom\BTL_QuanLyThuVien\DAO\obj\Debug\DAO.pdb

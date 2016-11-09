@@ -35,3 +35,9 @@ C:\data\TTNhom\BTL_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.c
 C:\data\TTNhom\BTL_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.exe.licenses
 C:\data\TTNhom\BTL_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe
 C:\data\TTNhom\BTL_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.pdb
+C:\data\TTNhom\BTL_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BUS.dll
+C:\data\TTNhom\BTL_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\DAO.dll
+C:\data\TTNhom\BTL_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\DTO.dll
+C:\data\TTNhom\BTL_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BUS.pdb
+C:\data\TTNhom\BTL_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\DAO.pdb
+C:\data\TTNhom\BTL_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\DTO.pdb

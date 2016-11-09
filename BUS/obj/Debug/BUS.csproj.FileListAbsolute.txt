@@ -1,0 +1,19 @@
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\BUS\bin\Debug\BUS.dll
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\BUS\bin\Debug\BUS.pdb
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\BUS\bin\Debug\DAO.dll
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\BUS\bin\Debug\DTO.dll
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\BUS\bin\Debug\Sqlhelper.dll
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\BUS\bin\Debug\DAO.pdb
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\BUS\bin\Debug\DTO.pdb
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\BUS\obj\Debug\BUS.dll
+C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\BUS\obj\Debug\BUS.pdb
+C:\data\TTNhom\BTL_QuanLyThuVien\BUS\bin\Debug\BUS.dll
+C:\data\TTNhom\BTL_QuanLyThuVien\BUS\bin\Debug\BUS.pdb
+C:\data\TTNhom\BTL_QuanLyThuVien\BUS\bin\Debug\DAO.dll
+C:\data\TTNhom\BTL_QuanLyThuVien\BUS\bin\Debug\DTO.dll
+C:\data\TTNhom\BTL_QuanLyThuVien\BUS\bin\Debug\DAO.pdb
+C:\data\TTNhom\BTL_QuanLyThuVien\BUS\bin\Debug\DTO.pdb
+C:\data\TTNhom\BTL_QuanLyThuVien\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\data\TTNhom\BTL_QuanLyThuVien\BUS\obj\Debug\BUS.dll
+C:\data\TTNhom\BTL_QuanLyThuVien\BUS\obj\Debug\BUS.pdb
