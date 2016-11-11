@@ -160,7 +160,7 @@ namespace BTL_QUANLYTHUVIEN
             else
             {
 
-               // clsAddTab.AddTab(xtraTabControl1, "", "Quản Lý Độc Giả", new frmDocGia());
+                clsAddTab.AddTab(xtraTabControl1, "", "Quản Lý Độc Giả", new frmDocGia());
             }
         }
 

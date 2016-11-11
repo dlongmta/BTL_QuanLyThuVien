@@ -73,6 +73,12 @@
     <Compile Include="frmDauSach.Designer.cs">
       <DependentUpon>frmDauSach.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDocGia.Designer.cs">
+      <DependentUpon>frmDocGia.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
